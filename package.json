@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "demo:factory": "npx ts-node factory.ts",
+    "demo:decorator": "npx ts-node decorator.ts",
+    "demo:composite": "npx ts-node composite.ts"
+  },
+  "dependencies": {
+    "@types/node": "22.13.1",
+    "ts-node": "10.4.0",
+    "typescript": "4.5.5"
+  }
+}
